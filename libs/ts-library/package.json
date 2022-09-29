@@ -1,0 +1,13 @@
+{
+  "name": "@yui/ts-library",
+  "version": "0.0.0-semantic-release",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linkb15/yui.git",
+    "directory": "libs/ts-library"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}

@@ -10,11 +10,14 @@
   "private": true,
   "dependencies": {
     "@nrwl/next": "14.8.1",
+    "@swc/helpers": "~0.3.3",
     "core-js": "^3.6.5",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "regenerator-runtime": "0.13.7",
+    "semantic-release-npm-github-publish": "^1.5.4",
+    "semantic-release-plus": "^20.0.0",
     "tslib": "^2.3.0"
   },
   "devDependencies": {
@@ -27,6 +30,7 @@
     "@nrwl/react": "14.8.1",
     "@nrwl/web": "14.8.1",
     "@nrwl/workspace": "14.8.1",
+    "@swc/cli": "~0.1.55",
     "@swc/core": "^1.2.173",
     "@swc/jest": "0.2.20",
     "@testing-library/react": "13.4.0",

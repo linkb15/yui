@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@yui/ts-library": ["libs/ts-library/src/index.ts"],
       "@yui/use-viewport-size": ["libs/use-viewport-size/src/index.ts"]
     }
   },
