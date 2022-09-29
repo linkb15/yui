@@ -1,3 +1,3 @@
 export function tsLibrary(): string {
-  return 'ts-library';
+  return 'ts-library2';
 }
